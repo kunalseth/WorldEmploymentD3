@@ -1,0 +1,571 @@
+year,country,cell_subscriptions,internet_users,unemployment,population,bank_branches,tourism_arrivals,region,income_group
+2011,Afghanistan,60.3,5,8.2,28809167,2.3,NA,South Asia,Low income
+2010,Albania,85.5,45,14.2,2913021,24.2,2191000,Europe & Central Asia,Upper middle income
+2011,Albania,98.3,49,14,2904780,24.3,2469000,Europe & Central Asia,Upper middle income
+2012,Albania,110.7,54.65595904,13.4,2900489,24.3,3156000,Europe & Central Asia,Upper middle income
+2013,Albania,116.2,57.2,15.6,2897366,23.7,2857000,Europe & Central Asia,Upper middle income
+2014,Albania,105.5,60.1,17.5,2894475,22.2,NA,Europe & Central Asia,Upper middle income
+2010,Algeria,88.4,12.5,10,36036159,4.9,2070000,Middle East & North Africa,Upper middle income
+2011,Algeria,94.3,14,10,36717132,5,2395000,Middle East & North Africa,Upper middle income
+2012,Algeria,97.5,15.22802676,11,37439427,5.1,2634000,Middle East & North Africa,Upper middle income
+2013,Algeria,100.8,16.5,9.8,38186135,5.1,NA,Middle East & North Africa,Upper middle income
+2014,Algeria,93.3,18.09,10.6,38934334,5.1,NA,Middle East & North Africa,Upper middle income
+2010,Argentina,141.4,45,7.7,41222875,13,5325000,Latin America & Caribbean,High income: nonOECD
+2011,Argentina,149.1,51,7.2,41655616,13.2,5705000,Latin America & Caribbean,High income: nonOECD
+2012,Argentina,156.6,55.8,7.2,42095224,13.3,5587000,Latin America & Caribbean,High income: nonOECD
+2013,Argentina,162.5,59.9,6.6,42538304,13.3,5571000,Latin America & Caribbean,High income: nonOECD
+2014,Argentina,158.7,64.7,7.3,42980026,13.3,NA,Latin America & Caribbean,High income: nonOECD
+2010,Armenia,130.4,25,19,2963496,18.3,684000,Europe & Central Asia,Lower middle income
+2011,Armenia,108.3,32,18.4,2967984,19.6,758000,Europe & Central Asia,Lower middle income
+2012,Armenia,111.9,37.5,17.3,2978339,20.9,963000,Europe & Central Asia,Lower middle income
+2013,Armenia,112.4,41.9,16.2,2992192,21.3,1084000,Europe & Central Asia,Lower middle income
+2010,Aruba,129.7,62,10.6,101597,NA,824000,Latin America & Caribbean,High income: nonOECD
+2010,Australia,100.4,76,5.2,22031750,30.7,5790000,East Asia & Pacific,High income: OECD
+2011,Australia,104.6,79.48769771,5.1,22340024,30.3,5771000,East Asia & Pacific,High income: OECD
+2012,Australia,105.6,79,5.2,22728254,30.9,6032000,East Asia & Pacific,High income: OECD
+2013,Australia,106.8,83,5.7,23125868,30.2,6382000,East Asia & Pacific,High income: OECD
+2014,Australia,131.2,84.56,6.1,23490736,29.2,NA,East Asia & Pacific,High income: OECD
+2010,Austria,145.7,75.17,4.8,8363404,11.3,22004000,Europe & Central Asia,High income: OECD
+2011,Austria,154.4,78.7399931,4.6,8391643,15.1,23012000,Europe & Central Asia,High income: OECD
+2012,Austria,160.5,80.02999392,4.9,8429991,16,24151000,Europe & Central Asia,High income: OECD
+2013,Austria,156.2,80.6188,5.3,8479375,15.6,24813000,Europe & Central Asia,High income: OECD
+2014,Austria,151.9,81,5.6,8534492,14.9,NA,Europe & Central Asia,High income: OECD
+2010,Azerbaijan,100.1,46,5.6,9054332,9.8,1280000,Europe & Central Asia,Upper middle income
+2011,Azerbaijan,110,50,5.4,9173082,10,1562000,Europe & Central Asia,Upper middle income
+2012,Azerbaijan,108.8,54.2,5.2,9295784,9.7,1986000,Europe & Central Asia,Upper middle income
+2013,Azerbaijan,107.6,58.7,5,9416801,10.1,2130000,Europe & Central Asia,Upper middle income
+2014,Azerbaijan,110.9,61,4.9,9537823,10.7,NA,Europe & Central Asia,Upper middle income
+2011,"Bahamas, The",81.6,65,13.7,366711,35.4,1346000,Latin America & Caribbean,High income: nonOECD
+2012,"Bahamas, The",80.7,71.74820281,14,372388,35,1422000,Latin America & Caribbean,High income: nonOECD
+2013,"Bahamas, The",76.1,72,16.2,377841,34,1364000,Latin America & Caribbean,High income: nonOECD
+2010,Bahrain,125.2,55,1.1,1261319,NA,11952000,Middle East & North Africa,High income: nonOECD
+2011,Bahrain,131,76.9999665,1.2,1306014,NA,6732000,Middle East & North Africa,High income: nonOECD
+2012,Bahrain,161.2,88,1.2,1333577,NA,8062000,Middle East & North Africa,High income: nonOECD
+2010,Bangladesh,44.9,3.7,4.5,151616777,7.4,303000,South Asia,Lower middle income
+2010,Barbados,124.8,65.1,10.8,279566,18.6,532000,Latin America & Caribbean,High income: nonOECD
+2011,Barbados,123.5,67,11.2,280602,19.7,568000,Latin America & Caribbean,High income: nonOECD
+2012,Barbados,123.3,70,11.6,281580,20.5,536000,Latin America & Caribbean,High income: nonOECD
+2013,Barbados,108.1,73,11.5,282503,19.1,509000,Latin America & Caribbean,High income: nonOECD
+2010,Belarus,108.9,31.8,1.2,9490000,3.2,120000,Europe & Central Asia,Upper middle income
+2011,Belarus,113.2,39.64889566,0.7,9473000,2.1,116000,Europe & Central Asia,Upper middle income
+2012,Belarus,113.5,46.91,0.6,9464000,1.7,119000,Europe & Central Asia,Upper middle income
+2013,Belarus,118.8,54.17,0.5,9466000,1.6,137000,Europe & Central Asia,Upper middle income
+2014,Belarus,122.5,59.02,0.5,9470000,NA,NA,Europe & Central Asia,Upper middle income
+2010,Belgium,111.1,75,8.3,10920272,44.9,7186000,Europe & Central Asia,High income: OECD
+2011,Belgium,113.5,81.609996,7.1,11047744,43.4,7494000,Europe & Central Asia,High income: OECD
+2012,Belgium,111.3,80.71999055,7.5,11128246,42.4,7560000,Europe & Central Asia,High income: OECD
+2013,Belgium,110.9,82.1702,8.4,11182817,41.4,7684000,Europe & Central Asia,High income: OECD
+2014,Belgium,114.3,85,8.5,11225207,39.9,NA,Europe & Central Asia,High income: OECD
+2010,Belize,62.9,28.2,23.3,321609,26.1,242000,Latin America & Caribbean,Upper middle income
+2012,Belize,53.2,31,14.4,336707,24.5,277000,Latin America & Caribbean,Upper middle income
+2013,Belize,52.6,33.6,11.7,344193,25.1,294000,Latin America & Caribbean,Upper middle income
+2010,Benin,74.4,3.13,1,9509798,2.9,199000,Sub-Saharan Africa,Low income
+2012,Bermuda,139.5,91.29930452,8.4,64798,NA,232000,North America,High income: nonOECD
+2013,Bermuda,144.3,95.3,6.7,65001,NA,236000,North America,High income: nonOECD
+2010,Bhutan,55,13.6,3.3,720246,14.3,41000,South Asia,Lower middle income
+2011,Bhutan,66.4,21,3.1,732246,16.2,66000,South Asia,Lower middle income
+2012,Bhutan,75.6,24,2.1,743711,12.4,105000,South Asia,Lower middle income
+2013,Bhutan,72.2,29.9,2.9,754637,16,116000,South Asia,Lower middle income
+2014,Bhutan,82.1,34.37,2.6,765008,15.5,NA,South Asia,Lower middle income
+2011,Bolivia,80.9,30,2.7,10078238,9.3,711000,Latin America & Caribbean,Lower middle income
+2010,Bosnia and Herzegovina,80.9,42.75,27.2,3835258,31,365000,Europe & Central Asia,Upper middle income
+2011,Bosnia and Herzegovina,82.6,47.77,27.6,3832310,31.4,392000,Europe & Central Asia,Upper middle income
+2012,Bosnia and Herzegovina,87.6,52.78,28.1,3828419,30.6,439000,Europe & Central Asia,Upper middle income
+2013,Bosnia and Herzegovina,91.1,57.79,27.5,3823533,30.8,529000,Europe & Central Asia,Upper middle income
+2010,Botswana,120,6,17.9,2047831,9.2,2145000,Sub-Saharan Africa,Upper middle income
+2011,Brazil,119,45.69,6.7,200517584,45.4,5433000,Latin America & Caribbean,Upper middle income
+2012,Brazil,125,48.56,6.1,202401584,46.5,5677000,Latin America & Caribbean,Upper middle income
+2013,Brazil,135.3,51.04,6.5,204259377,47,5813000,Latin America & Caribbean,Upper middle income
+2014,Brazil,139,57.6,4.8,206077898,47.3,NA,Latin America & Caribbean,Upper middle income
+2011,Brunei Darussalam,109,56,1.7,399443,22.7,242000,East Asia & Pacific,High income: nonOECD
+2010,Bulgaria,138,46.23,10.2,7395599,91.7,6047000,Europe & Central Asia,Upper middle income
+2011,Bulgaria,142.8,47.97999305,11.3,7348328,59.8,6328000,Europe & Central Asia,Upper middle income
+2012,Bulgaria,148.1,51.89998767,12.3,7305888,61.2,6541000,Europe & Central Asia,Upper middle income
+2013,Bulgaria,145.2,53.0615,12.9,7265115,60.6,6898000,Europe & Central Asia,Upper middle income
+2014,Bulgaria,137.7,55.49,11.4,7223938,60.3,NA,Europe & Central Asia,Upper middle income
+2010,Cabo Verde,76.3,30,10.7,490379,31.3,336000,Sub-Saharan Africa,Lower middle income
+2010,Cambodia,56.7,1.26,0.4,14363586,4,2508000,East Asia & Pacific,Low income
+2011,Cambodia,94.2,3.1,0.2,14593099,4.2,2882000,East Asia & Pacific,Low income
+2012,Cambodia,128.5,4.94,0.2,14832255,4.4,3584000,East Asia & Pacific,Low income
+2013,Cambodia,133.9,6.8,0.3,15078564,4.7,4210000,East Asia & Pacific,Low income
+2010,Cameroon,41.9,4.3,4.1,20590666,1.7,573000,Sub-Saharan Africa,Lower middle income
+2010,Canada,75.7,80.3,8.1,34005274,24.1,16219000,North America,High income: OECD
+2011,Canada,77.8,83,7.5,34342780,24.2,16014000,North America,High income: OECD
+2012,Canada,79.6,83,7.3,34754312,24.3,16344000,North America,High income: OECD
+2013,Canada,80.6,85.8,7.1,35158304,24.2,16590000,North America,High income: OECD
+2014,Canada,83,87.12,6.9,35540419,24,NA,North America,High income: OECD
+2010,Cayman Islands,181.2,66,6.7,55509,NA,288000,Latin America & Caribbean,High income: nonOECD
+2011,Cayman Islands,171,69.46594499,6.8,56580,NA,309000,Latin America & Caribbean,High income: nonOECD
+2012,Cayman Islands,171.7,74.12653069,6.2,57522,NA,322000,Latin America & Caribbean,High income: nonOECD
+2013,Cayman Islands,167.8,74.1,6.3,58369,NA,345000,Latin America & Caribbean,High income: nonOECD
+2010,Chile,115.8,45,8.1,17015048,17.3,2801000,Latin America & Caribbean,High income: OECD
+2011,Chile,128.9,52.24960729,7.1,17201305,17.2,3137000,Latin America & Caribbean,High income: OECD
+2012,Chile,137.1,61.41815456,6.4,17388437,17.1,3554000,Latin America & Caribbean,High income: OECD
+2013,Chile,134.3,66.5,5.9,17575833,17,3576000,Latin America & Caribbean,High income: OECD
+2010,China,63.2,34.3,2.9,1337705000,NA,55664000,East Asia & Pacific,Upper middle income
+2011,China,72.1,38.3,4.1,1344130000,NA,57581000,East Asia & Pacific,Upper middle income
+2012,China,80.8,42.30011749,4.1,1350695000,7.7,57725000,East Asia & Pacific,Upper middle income
+2013,China,88.7,45.8,4.1,1357380000,7.8,55686000,East Asia & Pacific,Upper middle income
+2014,China,92.3,49.3,4.1,1364270000,8.1,NA,East Asia & Pacific,Upper middle income
+2010,Colombia,95.8,36.5,12,45918101,42.6,1405000,Latin America & Caribbean,Upper middle income
+2011,Colombia,98.1,40.35091575,11.1,46406446,72.2,2042000,Latin America & Caribbean,Upper middle income
+2012,Colombia,102.9,48.98,10.6,46881018,112.3,2175000,Latin America & Caribbean,Upper middle income
+2013,Colombia,104.1,51.7,8.9,47342363,144.3,2288000,Latin America & Caribbean,Upper middle income
+2014,Colombia,113.1,52.57,9.1,47791393,256.3,NA,Latin America & Caribbean,Upper middle income
+2010,Costa Rica,67,36.5,7.3,4545273,19.8,2100000,Latin America & Caribbean,Upper middle income
+2011,Costa Rica,87.7,39.212196,7.7,4600487,22.5,2192000,Latin America & Caribbean,Upper middle income
+2012,Costa Rica,111.9,47.5,7.8,4654148,22.4,2343000,Latin America & Caribbean,Upper middle income
+2013,Costa Rica,146,45.96,8.5,4706433,21.9,2428000,Latin America & Caribbean,Upper middle income
+2014,Costa Rica,143.8,49.41,9.6,4757606,21.6,NA,Latin America & Caribbean,Upper middle income
+2010,Croatia,113.6,56.55,11.6,4417781,35.1,9111000,Europe & Central Asia,High income: nonOECD
+2011,Croatia,118.3,57.78997899,13.7,4280622,35.8,9927000,Europe & Central Asia,High income: nonOECD
+2012,Croatia,115.4,61.93997315,15.9,4267558,35.5,10369000,Europe & Central Asia,High income: nonOECD
+2013,Croatia,110.1,66.7476,17.3,4255689,34.6,10955000,Europe & Central Asia,High income: nonOECD
+2014,Croatia,104.4,68.57,17.3,4238389,33.8,NA,Europe & Central Asia,High income: nonOECD
+2010,Cuba,8.9,15.9,2.5,11308133,NA,2507000,Latin America & Caribbean,Upper middle income
+2011,Cuba,11.7,16.0172908,3.2,11323570,NA,2688000,Latin America & Caribbean,Upper middle income
+2012,Cuba,14.9,21.2,3.5,11342631,NA,2815000,Latin America & Caribbean,Upper middle income
+2013,Cuba,17.7,27.93,3.3,11362505,NA,2829000,Latin America & Caribbean,Upper middle income
+2010,Cyprus,93.7,52.99,6.3,1103685,58.4,2173000,Europe & Central Asia,High income: nonOECD
+2011,Cyprus,97.7,56.85989235,7.9,1116644,55.9,2392000,Europe & Central Asia,High income: nonOECD
+2012,Cyprus,98.4,60.6898684,11.8,1129303,52.3,2465000,Europe & Central Asia,High income: nonOECD
+2013,Cyprus,96.4,65.4548,15.9,1141652,39.3,2405000,Europe & Central Asia,High income: nonOECD
+2014,Cyprus,96.3,69.33,16.1,1153658,37.7,NA,Europe & Central Asia,High income: nonOECD
+2010,Czech Republic,122.6,68.82,7.3,10474410,22.6,8185000,Europe & Central Asia,High income: OECD
+2011,Czech Republic,124.1,70.49,6.7,10496088,23.3,8508000,Europe & Central Asia,High income: OECD
+2012,Czech Republic,126.8,73.43000782,7,10510785,23.8,8908000,Europe & Central Asia,High income: OECD
+2013,Czech Republic,127.7,74.1104,7,10514272,24.3,9004000,Europe & Central Asia,High income: OECD
+2014,Czech Republic,130,79.71,6.1,10510566,24.3,NA,Europe & Central Asia,High income: OECD
+2010,Denmark,115.7,88.72,7.5,5547683,40.9,8744000,Europe & Central Asia,High income: OECD
+2011,Denmark,128.7,89.81001339,7.6,5570572,38.7,7864000,Europe & Central Asia,High income: OECD
+2012,Denmark,130.3,92.26001172,7.5,5591572,34.1,8443000,Europe & Central Asia,High income: OECD
+2013,Denmark,127.1,94.6297,7,5614932,30.1,8557000,Europe & Central Asia,High income: OECD
+2014,Denmark,126,95.99,6.6,5639565,27.9,NA,Europe & Central Asia,High income: OECD
+2010,Dominican Republic,88.8,31.4,12.4,9897983,10.1,4125000,Latin America & Caribbean,Upper middle income
+2011,Dominican Republic,86.4,38,14.7,10027140,10.5,4306000,Latin America & Caribbean,Upper middle income
+2012,Dominican Republic,86.9,41.2,14.7,10155036,10.3,4563000,Latin America & Caribbean,Upper middle income
+2013,Dominican Republic,88.4,45.9,15,10281408,11.5,4690000,Latin America & Caribbean,Upper middle income
+2014,Dominican Republic,78.9,49.58,14.5,10405943,11.4,NA,Latin America & Caribbean,Upper middle income
+2010,Ecuador,98.5,29.03,5,14934692,33.8,1047000,Latin America & Caribbean,Upper middle income
+2011,Ecuador,100.6,31.36680836,4.2,15177280,41.8,1141000,Latin America & Caribbean,Upper middle income
+2012,Ecuador,106.2,35.13514645,4.1,15419493,77.2,1272000,Latin America & Caribbean,Upper middle income
+2013,Ecuador,105.6,40.35368423,4.2,15661312,78.5,1364000,Latin America & Caribbean,Upper middle income
+2010,"Egypt, Arab Rep.",90.5,21.6,9,82040994,4.8,14051000,Middle East & North Africa,Lower middle income
+2011,"Egypt, Arab Rep.",105.1,25.6,12,83787634,4.8,9497000,Middle East & North Africa,Lower middle income
+2012,"Egypt, Arab Rep.",119.9,26.4,12.7,85660902,4.8,11196000,Middle East & North Africa,Lower middle income
+2013,"Egypt, Arab Rep.",121.5,29.4,13.2,87613909,4.8,9174000,Middle East & North Africa,Lower middle income
+2010,El Salvador,123.8,15.9,7,6038306,10.7,1150000,Latin America & Caribbean,Lower middle income
+2011,El Salvador,132.9,18.9,6.6,6055208,11.5,1184000,Latin America & Caribbean,Lower middle income
+2012,El Salvador,137.3,20.32138772,6.1,6072233,11,1255000,Latin America & Caribbean,Lower middle income
+2013,El Salvador,141.8,23.1093,5.9,6089644,11.7,1283000,Latin America & Caribbean,Lower middle income
+2010,Estonia,127.3,74.1,16.7,1331475,19.5,2372000,Europe & Central Asia,High income: OECD
+2011,Estonia,143.9,76.5,12.3,1327439,17.4,2665000,Europe & Central Asia,High income: OECD
+2012,Estonia,160.4,78.38992593,10,1322696,16.1,2744000,Europe & Central Asia,High income: OECD
+2013,Estonia,159.7,79.4,8.6,1317997,14,2868000,Europe & Central Asia,High income: OECD
+2014,Estonia,160.7,84.24,7.4,1313645,12.4,NA,Europe & Central Asia,High income: OECD
+2010,Ethiopia,7.9,0.75,18.9,87561814,1.4,468000,Sub-Saharan Africa,Low income
+2011,Ethiopia,15.8,1.1,18,89858696,1.9,523000,Sub-Saharan Africa,Low income
+2012,Ethiopia,22.4,1.482810139,17.6,92191211,2.9,597000,Sub-Saharan Africa,Low income
+2013,Ethiopia,27.3,1.9,4.5,94558374,NA,681000,Sub-Saharan Africa,Low income
+2010,Faeroe Islands,119.9,75.2,6.4,48567,NA,NA,Europe & Central Asia,High income: nonOECD
+2011,Faeroe Islands,118,80.7321728,5.3,48492,NA,NA,Europe & Central Asia,High income: nonOECD
+2012,Faeroe Islands,118.6,85.33518924,3,48393,NA,NA,Europe & Central Asia,High income: nonOECD
+2013,Faeroe Islands,120.7,90,4,48292,NA,NA,Europe & Central Asia,High income: nonOECD
+2010,Fiji,81.1,20,8.9,859952,11.1,632000,East Asia & Pacific,Upper middle income
+2011,Fiji,83.8,28,9,867327,10.9,675000,East Asia & Pacific,Upper middle income
+2012,Fiji,98.2,33.74235675,9,874158,10.4,661000,East Asia & Pacific,Upper middle income
+2010,Finland,156.3,86.89,8.4,5363352,15.5,3670000,Europe & Central Asia,High income: OECD
+2011,Finland,165.9,88.70999491,7.8,5388272,15.1,4192000,Europe & Central Asia,High income: OECD
+2012,Finland,172.3,89.87999797,7.7,5413971,13.6,4226000,Europe & Central Asia,High income: OECD
+2013,Finland,136.6,91.5144,8.2,5438972,12.2,NA,Europe & Central Asia,High income: OECD
+2014,Finland,139.7,92.38,8.7,5463596,12.1,NA,Europe & Central Asia,High income: OECD
+2010,France,91.4,77.28,9.3,65027512,41.5,77648000,Europe & Central Asia,High income: OECD
+2011,France,94.1,77.81999899,9.2,65342776,41.3,81550000,Europe & Central Asia,High income: OECD
+2012,France,97.4,81.44,9.8,65639975,38.9,83051000,Europe & Central Asia,High income: OECD
+2013,France,98.5,81.9198,9.9,65925498,38.6,84726000,Europe & Central Asia,High income: OECD
+2014,France,100.4,83.75,9.9,66206930,38,NA,Europe & Central Asia,High income: OECD
+2012,French Polynesia,82.5,52.87663059,21.8,273775,NA,169000,East Asia & Pacific,High income: nonOECD
+2010,Gabon,103.5,7.23,20.4,1541936,5,NA,Sub-Saharan Africa,Upper middle income
+2012,"Gambia, The",85.2,12.44922872,29.8,1807108,8.8,157000,Sub-Saharan Africa,Low income
+2010,Georgia,90.6,26.9,16.3,4452800,17.9,2032000,Europe & Central Asia,Lower middle income
+2011,Georgia,101.3,31.52,15.1,4483350,19.6,2822000,Europe & Central Asia,Lower middle income
+2012,Georgia,107.8,36.94,15,4490700,23,4428000,Europe & Central Asia,Lower middle income
+2013,Georgia,115,43.3,14.6,4487200,25.1,5392000,Europe & Central Asia,Lower middle income
+2014,Georgia,124.9,48.9,12.4,4504100,26.7,NA,Europe & Central Asia,Lower middle income
+2010,Germany,106.5,82,7.1,81776930,15.7,26875000,Europe & Central Asia,High income: OECD
+2011,Germany,109.7,81.26999954,5.8,81797673,15.5,28374000,Europe & Central Asia,High income: OECD
+2012,Germany,111.6,82.34999847,5.4,80425823,14.2,30411000,Europe & Central Asia,High income: OECD
+2013,Germany,120.9,84.17,5.2,80645605,14.9,31545000,Europe & Central Asia,High income: OECD
+2014,Germany,120.4,86.19,5,80889505,14.5,NA,Europe & Central Asia,High income: OECD
+2010,Ghana,71.9,7.8,4.2,24317734,5.4,931000,Sub-Saharan Africa,Lower middle income
+2013,Ghana,108.2,12.3,5.2,26164432,5.9,NA,Sub-Saharan Africa,Lower middle income
+2010,Greece,110.6,44.4,12.5,11153454,40.9,15007000,Europe & Central Asia,High income: OECD
+2011,Greece,109.1,51.64999517,17.8,11123213,39.4,16427000,Europe & Central Asia,High income: OECD
+2012,Greece,120.1,55.06999344,24.1,11092771,37.4,15518000,Europe & Central Asia,High income: OECD
+2013,Greece,116.8,59.8663,27.3,11027549,32.3,17920000,Europe & Central Asia,High income: OECD
+2014,Greece,115,63.21,26.5,10957740,28,NA,Europe & Central Asia,High income: OECD
+2011,Greenland,103.7,64,9.4,56890,NA,NA,Europe & Central Asia,High income: nonOECD
+2013,Greenland,106,65.8,9.7,56483,NA,NA,Europe & Central Asia,High income: nonOECD
+2010,Guatemala,126,10.5,3.7,14732261,35.3,1219000,Latin America & Caribbean,Lower middle income
+2011,Guatemala,132.5,12.3,4.1,15049280,36.1,1225000,Latin America & Caribbean,Lower middle income
+2012,Guatemala,137.8,16,2.9,15368759,36.6,1305000,Latin America & Caribbean,Lower middle income
+2013,Guatemala,140.4,19.7,3,15690793,36.9,1331000,Latin America & Caribbean,Lower middle income
+2010,Guinea,36.8,1,1.6,11012406,1.3,12000,Sub-Saharan Africa,Low income
+2011,Guinea,43.5,1.3,1.7,11316351,1.4,131000,Sub-Saharan Africa,Low income
+2012,Guinea,48.8,1.490144366,1.7,11628767,1.6,96000,Sub-Saharan Africa,Low income
+2010,Honduras,124.7,11.09,4.8,7503875,20.6,863000,Latin America & Caribbean,Lower middle income
+2011,Honduras,103.7,15.9,4.4,7621414,20.9,871000,Latin America & Caribbean,Lower middle income
+2013,Honduras,95.9,17.8,3.9,7849059,23.3,863000,Latin America & Caribbean,Lower middle income
+2010,"Hong Kong SAR, China",195.7,72,4.3,7024200,23.9,20085000,East Asia & Pacific,High income: nonOECD
+2011,"Hong Kong SAR, China",215.5,72.2,3.4,7071600,23.9,22316000,East Asia & Pacific,High income: nonOECD
+2012,"Hong Kong SAR, China",229.2,72.9,3.3,7154600,23.4,23770000,East Asia & Pacific,High income: nonOECD
+2013,"Hong Kong SAR, China",237.4,74.2,3.4,7187500,22.9,25661000,East Asia & Pacific,High income: nonOECD
+2014,"Hong Kong SAR, China",239.3,74.56,3.2,7241700,22.7,NA,East Asia & Pacific,High income: nonOECD
+2010,Hungary,119.9,65,11.2,10000023,16.7,9510000,Europe & Central Asia,High income: OECD
+2011,Hungary,116.9,68.01998789,11,9971727,16.4,10250000,Europe & Central Asia,High income: OECD
+2012,Hungary,116.1,70.57999815,11,9920362,16.1,10353000,Europe & Central Asia,High income: OECD
+2013,Hungary,116.4,72.6439,10.2,9893082,15.4,10675000,Europe & Central Asia,High income: OECD
+2014,Hungary,118.1,76.13,7.7,9861673,15.6,NA,Europe & Central Asia,High income: OECD
+2010,Iceland,107.2,93.39,7.6,318041,57.7,489000,Europe & Central Asia,High income: OECD
+2011,Iceland,106.8,94.8196868,7,319014,52.2,566000,Europe & Central Asia,High income: OECD
+2012,Iceland,108.1,96.20979955,6,320716,47.2,673000,Europe & Central Asia,High income: OECD
+2013,Iceland,108.1,96.5468,5.4,323764,43.2,800000,Europe & Central Asia,High income: OECD
+2014,Iceland,111.1,98.16,4.9,327589,40.4,NA,Europe & Central Asia,High income: OECD
+2010,India,62.4,7.5,3.5,1230984504,10.1,5776000,South Asia,Lower middle income
+2012,India,69.9,12.58006091,3.6,1263589639,11.3,6578000,South Asia,Lower middle income
+2013,India,70.8,15.1,4.5,1279498874,12,6968000,South Asia,Lower middle income
+2014,India,74.5,18,4.9,1295291543,13,NA,South Asia,Lower middle income
+2010,Indonesia,87.8,10.92,7.1,241613126,8.3,7003000,East Asia & Pacific,Lower middle income
+2011,Indonesia,102.5,12.28,6.6,244808254,8.7,7650000,East Asia & Pacific,Lower middle income
+2012,Indonesia,114.2,14.52,6.1,248037853,9.6,8044000,East Asia & Pacific,Lower middle income
+2013,Indonesia,125.4,14.94,6.2,251268276,10.4,8802000,East Asia & Pacific,Lower middle income
+2014,Indonesia,126.2,17.14,5.9,254454778,11,NA,East Asia & Pacific,Lower middle income
+2010,"Iran, Islamic Rep.",72.6,15.9,13.5,74253373,25.9,2938000,Middle East & North Africa,Upper middle income
+2013,"Iran, Islamic Rep.",84.2,29.95,10.4,77152445,27.4,4769000,Middle East & North Africa,Upper middle income
+2014,"Iran, Islamic Rep.",87.8,39.35,10.6,78143644,27.3,NA,Middle East & North Africa,Upper middle income
+2011,Iraq,80.2,5,8,31810191,4.9,1510000,Middle East & North Africa,Upper middle income
+2010,Ireland,105.2,69.85,13.9,4560155,28.2,7134000,Europe & Central Asia,High income: OECD
+2011,Ireland,108.5,74.88997297,14.6,4576794,27.2,7630000,Europe & Central Asia,High income: OECD
+2012,Ireland,107.2,76.91999254,14.7,4586897,24.6,7550000,Europe & Central Asia,High income: OECD
+2013,Ireland,105.5,78.2477,13,4598294,22.9,8260000,Europe & Central Asia,High income: OECD
+2014,Ireland,104.3,79.69,11.3,4612719,21.4,NA,Europe & Central Asia,High income: OECD
+2010,Israel,122.8,67.5,6,7623600,19.4,2803000,Middle East & North Africa,High income: OECD
+2011,Israel,122,68.87387799,5.1,7765800,20.1,2820000,Middle East & North Africa,High income: OECD
+2012,Israel,120.7,70.8,6.9,7910500,20.1,2886000,Middle East & North Africa,High income: OECD
+2013,Israel,122.8,70.8,6.2,8059500,19.6,2962000,Middle East & North Africa,High income: OECD
+2014,Israel,121.5,71.45,5.9,8215300,19.1,NA,Middle East & North Africa,High income: OECD
+2010,Italy,154.8,53.68,8.4,59277417,67.8,43626000,Europe & Central Asia,High income: OECD
+2011,Italy,158.1,54.3899983,8.4,59379449,67.5,46119000,Europe & Central Asia,High income: OECD
+2012,Italy,159.6,55.82999799,10.7,59539717,65.9,46360000,Europe & Central Asia,High income: OECD
+2013,Italy,158.8,58.4593,12.1,60233948,62.7,47704000,Europe & Central Asia,High income: OECD
+2014,Italy,154.2,61.96,12.7,61336387,59.6,NA,Europe & Central Asia,High income: OECD
+2010,Jamaica,116.1,27.67,12.4,2690824,6.6,1922000,Latin America & Caribbean,Upper middle income
+2011,Jamaica,106.9,37.43861341,12.7,2699838,6.5,1952000,Latin America & Caribbean,Upper middle income
+2012,Jamaica,98,33.79,13.7,2707805,6.4,1986000,Latin America & Caribbean,Upper middle income
+2013,Jamaica,102.2,37.1,15.3,2714734,6.1,2008000,Latin America & Caribbean,Upper middle income
+2010,Japan,96.8,78.21,4.9,128070000,33.8,8611000,East Asia & Pacific,High income: OECD
+2011,Japan,104.3,79.05411352,4.4,127817277,33.9,6219000,East Asia & Pacific,High income: OECD
+2012,Japan,110.9,79.4964,4.2,127561489,33.9,8358000,East Asia & Pacific,High income: OECD
+2013,Japan,116.3,89.71,3.9,127338621,33.9,10364000,East Asia & Pacific,High income: OECD
+2014,Japan,120.2,90.58,3.5,127131800,33.9,NA,East Asia & Pacific,High income: OECD
+2010,Jordan,102.6,27.2,12.5,6046000,19.3,4207000,Middle East & North Africa,Upper middle income
+2011,Jordan,111.2,34.9,12.9,6181000,19.7,3960000,Middle East & North Africa,Upper middle income
+2012,Jordan,128.2,37,12.2,6318000,19.8,4162000,Middle East & North Africa,Upper middle income
+2013,Jordan,141.8,41,12.6,6460000,19.9,3945000,Middle East & North Africa,Upper middle income
+2010,Kazakhstan,121.9,31.6,5.8,16321581,3.3,3196000,Europe & Central Asia,Upper middle income
+2011,Kazakhstan,156.8,50.6,5.4,16556600,3.4,4434000,Europe & Central Asia,Upper middle income
+2012,Kazakhstan,185.8,53.31566912,5.3,16791425,3.3,4807000,Europe & Central Asia,Upper middle income
+2013,Kazakhstan,184.7,54,5.2,17035275,3.3,4926000,Europe & Central Asia,Upper middle income
+2014,Kazakhstan,168.6,54.89,5.1,17289111,3.4,NA,Europe & Central Asia,Upper middle income
+2010,Kiribati,10.8,9.07,30.6,102648,NA,4700,East Asia & Pacific,Lower middle income
+2010,"Korea, Rep.",104.8,83.7,3.7,49410366,18.3,8798000,East Asia & Pacific,High income: OECD
+2011,"Korea, Rep.",107.7,83.75912015,3.4,49779440,18.3,9795000,East Asia & Pacific,High income: OECD
+2012,"Korea, Rep.",109.4,84.07,3.2,50004441,18.4,11140000,East Asia & Pacific,High income: OECD
+2013,"Korea, Rep.",111,84.77,3.1,50219669,18.2,12176000,East Asia & Pacific,High income: OECD
+2014,"Korea, Rep.",115.5,84.33,3.5,50423955,17.4,NA,East Asia & Pacific,High income: OECD
+2010,Kuwait,133,61.4,1.8,3059473,16.1,207000,Middle East & North Africa,High income: nonOECD
+2011,Kuwait,157.9,65.76907069,3.6,3239181,16.6,269000,Middle East & North Africa,High income: nonOECD
+2010,Kyrgyz Republic,98.9,16.3,8.6,5447900,6.1,855000,Europe & Central Asia,Lower middle income
+2011,Kyrgyz Republic,116.2,17.5,8.5,5514600,7.2,2278000,Europe & Central Asia,Lower middle income
+2012,Kyrgyz Republic,124.2,19.8,8.4,5607200,7.7,2406000,Europe & Central Asia,Lower middle income
+2013,Kyrgyz Republic,121.4,23,8.3,5719600,7.8,3076000,Europe & Central Asia,Lower middle income
+2010,Latvia,110.3,68.42,19.5,2097555,34.2,1373000,Europe & Central Asia,High income: nonOECD
+2011,Latvia,111.4,69.74995456,16.2,2059709,32.8,1493000,Europe & Central Asia,High income: nonOECD
+2012,Latvia,127.7,73.11994377,15,2034319,24.7,1435000,Europe & Central Asia,High income: nonOECD
+2013,Latvia,124.8,75.2344,11.9,2012647,21.6,1536000,Europe & Central Asia,High income: nonOECD
+2014,Latvia,124.2,75.83,10.8,1990351,20.5,NA,Europe & Central Asia,High income: nonOECD
+2013,Lesotho,86.3,5,24.4,2083061,3.6,433000,Sub-Saharan Africa,Lower middle income
+2010,Liberia,39.7,2.3,3.7,3957990,3.6,NA,Sub-Saharan Africa,Low income
+2010,Liechtenstein,98.3,80,2.6,36276,NA,50000,Europe & Central Asia,High income: nonOECD
+2011,Liechtenstein,101.6,85,2.4,36537,NA,53000,Europe & Central Asia,High income: nonOECD
+2012,Liechtenstein,98.4,89.4077,2.5,36791,NA,54000,Europe & Central Asia,High income: nonOECD
+2013,Liechtenstein,104.1,93.8,2.6,37040,NA,52000,Europe & Central Asia,High income: nonOECD
+2010,Lithuania,159.4,62.12,17.8,3097282,29.6,1507000,Europe & Central Asia,High income: nonOECD
+2011,Lithuania,162.2,63.6399774,15.4,3028115,NA,1775000,Europe & Central Asia,High income: nonOECD
+2012,Lithuania,165.1,67.22998933,13.4,2987773,NA,1900000,Europe & Central Asia,High income: nonOECD
+2013,Lithuania,151.3,68.4529,11.8,2957689,NA,2012000,Europe & Central Asia,High income: nonOECD
+2014,Lithuania,147,72.13,10.7,2929323,NA,NA,Europe & Central Asia,High income: nonOECD
+2010,Luxembourg,143.1,90.62,4.4,506953,88.6,805000,Europe & Central Asia,High income: OECD
+2011,Luxembourg,148.2,90.02985856,4.9,518347,85.4,870000,Europe & Central Asia,High income: OECD
+2012,Luxembourg,145.4,91.94992374,5.1,530946,82.6,950000,Europe & Central Asia,High income: OECD
+2013,Luxembourg,148.6,93.7765,5.8,543360,81.7,945000,Europe & Central Asia,High income: OECD
+2014,Luxembourg,148.4,94.67,5.9,556074,80.4,NA,Europe & Central Asia,High income: OECD
+2010,"Macao SAR, China",209.9,55.198,2.8,534626,36.2,11926000,East Asia & Pacific,High income: nonOECD
+2011,"Macao SAR, China",247.7,60.20369672,2.6,546682,36.8,12925000,East Asia & Pacific,High income: nonOECD
+2012,"Macao SAR, China",289.8,61.31,2,557763,36.6,13577000,East Asia & Pacific,High income: nonOECD
+2013,"Macao SAR, China",304.1,65.8,1.8,568056,37.5,14268000,East Asia & Pacific,High income: nonOECD
+2014,"Macao SAR, China",322.6,69.78,1.7,577914,38.5,NA,East Asia & Pacific,High income: nonOECD
+2010,"Macedonia, FYR",102.4,51.9,32,2062443,25.1,262000,Europe & Central Asia,Upper middle income
+2011,"Macedonia, FYR",105.2,56.7,31.4,2065888,23.7,327000,Europe & Central Asia,Upper middle income
+2012,"Macedonia, FYR",106.2,57.44994731,31,2069270,24.2,351000,Europe & Central Asia,Upper middle income
+2013,"Macedonia, FYR",106.2,65.24,29,2072543,24.3,400000,Europe & Central Asia,Upper middle income
+2014,"Macedonia, FYR",109.1,68.06,28,2075625,24.4,NA,Europe & Central Asia,Upper middle income
+2010,Madagascar,36.6,1.7,3.8,21079532,1.5,196000,Sub-Saharan Africa,Low income
+2012,Madagascar,39.4,2.3,1.3,22293720,1.6,256000,Sub-Saharan Africa,Low income
+2013,Malawi,32.3,5.05,6.4,16190126,3.2,NA,Sub-Saharan Africa,Low income
+2010,Malaysia,119.7,56.3,3.4,28119500,10.9,24577000,East Asia & Pacific,Upper middle income
+2011,Malaysia,127.5,61,3.1,28572970,11.2,24714000,East Asia & Pacific,Upper middle income
+2012,Malaysia,141.3,65.8,3,29021940,11.1,25033000,East Asia & Pacific,Upper middle income
+2013,Malaysia,144.7,66.97,3.1,29465372,10.9,25715000,East Asia & Pacific,Upper middle income
+2014,Malaysia,148.8,67.5,2.9,29901997,10.7,NA,East Asia & Pacific,Upper middle income
+2010,Maldives,151.8,26.53,11.7,367000,14,792000,South Asia,Upper middle income
+2010,Mali,53.2,2,7.3,15167286,3.9,169000,Sub-Saharan Africa,Low income
+2011,Mali,75.1,2.2,6.9,15639115,4.5,160000,Sub-Saharan Africa,Low income
+2013,Mali,129.1,3.5,7.3,16592097,5.4,142000,Sub-Saharan Africa,Low income
+2014,Mali,149,7,8.2,17086022,NA,NA,Sub-Saharan Africa,Low income
+2010,Malta,107.3,63,6.8,414508,39.7,1339000,Middle East & North Africa,High income: nonOECD
+2011,Malta,122.4,68.01982379,6.4,416268,41.7,1415000,Middle East & North Africa,High income: nonOECD
+2012,Malta,124.4,68.19987429,6.3,419455,38.1,1443000,Middle East & North Africa,High income: nonOECD
+2013,Malta,129.8,68.9138,6.4,423374,38.2,1582000,Middle East & North Africa,High income: nonOECD
+2014,Malta,127,73.17,5.9,427404,37.7,NA,Middle East & North Africa,High income: nonOECD
+2010,Mauritius,96.8,28.33,7.7,1250400,21.1,935000,Sub-Saharan Africa,Upper middle income
+2011,Mauritius,104.8,34.95,7.9,1252404,21.4,965000,Sub-Saharan Africa,Upper middle income
+2012,Mauritius,119.9,35.42,8.7,1255882,21.7,965000,Sub-Saharan Africa,Upper middle income
+2013,Mauritius,123.2,39,7.6,1258653,22.1,993000,Sub-Saharan Africa,Upper middle income
+2014,Mauritius,132.2,41.44,7.7,1260934,24.2,NA,Sub-Saharan Africa,Upper middle income
+2010,Mexico,77.5,31.05,5.2,118617542,14.2,23290000,Latin America & Caribbean,Upper middle income
+2011,Mexico,79.2,37.17629541,5.2,120365271,14.2,23403000,Latin America & Caribbean,Upper middle income
+2012,Mexico,83.4,39.75,4.8,122070963,15.1,23403000,Latin America & Caribbean,Upper middle income
+2013,Mexico,84.8,43.46,5,123740109,15,24151000,Latin America & Caribbean,Upper middle income
+2014,Mexico,82.5,44.39,4.9,125385833,14.9,NA,Latin America & Caribbean,Upper middle income
+2010,Moldova,71.4,32.3,7.4,3562045,10.4,8000,Europe & Central Asia,Lower middle income
+2011,Moldova,90.8,38,6.7,3559986,11.3,9000,Europe & Central Asia,Lower middle income
+2012,Moldova,102,43.37,5.6,3559519,11.5,11000,Europe & Central Asia,Lower middle income
+2013,Moldova,106,45,5.1,3558566,12.1,11500,Europe & Central Asia,Lower middle income
+2014,Moldova,108,46.6,3.9,3556400,12.2,NA,Europe & Central Asia,Lower middle income
+2010,Mongolia,92.5,10.2,6.5,2712657,54.7,456000,East Asia & Pacific,Upper middle income
+2011,Mongolia,106.8,12.49999111,4.8,2759074,65.8,460000,East Asia & Pacific,Upper middle income
+2012,Mongolia,120.7,16.4,8.2,2808339,68.4,476000,East Asia & Pacific,Upper middle income
+2013,Mongolia,124.2,20,7.9,2859174,71.1,418000,East Asia & Pacific,Upper middle income
+2010,Montenegro,188.7,37.5,19.7,619428,39.9,1088000,Europe & Central Asia,Upper middle income
+2011,Montenegro,186.8,35.61154125,19.7,620079,40.3,1201000,Europe & Central Asia,Upper middle income
+2012,Montenegro,159.5,56.83878255,19.6,620601,40.6,1264000,Europe & Central Asia,Upper middle income
+2013,Montenegro,159.9,60.31,19.5,621207,42.4,1324000,Europe & Central Asia,Upper middle income
+2014,Montenegro,163,61,18,621800,41.8,NA,Europe & Central Asia,Upper middle income
+2010,Morocco,101.1,52,9.1,32107739,21.1,9288000,Middle East & North Africa,Lower middle income
+2011,Morocco,114,46.1074826,8.9,32531964,22.2,9342000,Middle East & North Africa,Lower middle income
+2012,Morocco,120,55.41605319,9,32984190,23.3,9375000,Middle East & North Africa,Lower middle income
+2013,Morocco,128.5,56,9.2,33452686,24.1,10046000,Middle East & North Africa,Lower middle income
+2014,Morocco,131.7,56.8,9.9,33921203,24.6,NA,Middle East & North Africa,Lower middle income
+2012,Mozambique,34.9,4.8491,22.6,25732928,3.8,2113000,Sub-Saharan Africa,Low income
+2010,Namibia,89.5,11.6,22.1,2193643,12.5,984000,Sub-Saharan Africa,Upper middle income
+2011,Namibia,99,12,26.8,2240161,12.6,1027000,Sub-Saharan Africa,Upper middle income
+2012,Namibia,95,12.9414,16.7,2291645,12.4,1079000,Sub-Saharan Africa,Upper middle income
+2013,Namibia,118.4,13.9,29.7,2346592,12.3,1176000,Sub-Saharan Africa,Upper middle income
+2013,Nepal,76.8,13.3,3.3,27834981,8.4,798000,South Asia,Low income
+2010,Netherlands,115.4,90.72,4.5,16615394,23,10883000,Europe & Central Asia,High income: OECD
+2011,Netherlands,119,91.41999576,4.4,16693074,21.3,11300000,Europe & Central Asia,High income: OECD
+2012,Netherlands,118,92.85999236,5.3,16754962,19.7,11680000,Europe & Central Asia,High income: OECD
+2013,Netherlands,116.2,93.9564,6.7,16804432,17.4,12783000,Europe & Central Asia,High income: OECD
+2014,Netherlands,116.4,93.17,6.8,16854183,14.8,NA,Europe & Central Asia,High income: OECD
+2010,New Zealand,107.8,80.46,6.5,4350700,34.5,2435000,East Asia & Pacific,High income: OECD
+2011,New Zealand,109.2,81.23,6.5,4384000,33.9,2511000,East Asia & Pacific,High income: OECD
+2012,New Zealand,110.4,82,6.9,4408100,33.3,2473000,East Asia & Pacific,High income: OECD
+2013,New Zealand,105.8,82.78,6.3,4442100,30.8,2629000,East Asia & Pacific,High income: OECD
+2014,New Zealand,112.1,85.5,5.8,4509700,29.6,NA,East Asia & Pacific,High income: OECD
+2010,Nicaragua,68.1,10,8,5737722,6.9,1011000,Latin America & Caribbean,Lower middle income
+2013,Nicaragua,112,15.5,5.3,5945646,7.4,1229000,Latin America & Caribbean,Lower middle income
+2010,Nigeria,54.7,24,21.4,159424742,6.5,1555000,Sub-Saharan Africa,Lower middle income
+2011,Nigeria,58,28.43,23.9,163770669,6.4,715000,Sub-Saharan Africa,Lower middle income
+2012,Nigeria,66.8,32.8,7.6,168240403,5.8,486000,Sub-Saharan Africa,Lower middle income
+2013,Nigeria,73.3,38,7.1,172816517,5.9,600000,Sub-Saharan Africa,Lower middle income
+2014,Nigeria,77.8,42.68,4.8,177475986,5.6,NA,Sub-Saharan Africa,Lower middle income
+2010,Norway,114.5,93.39,3.5,4889252,11,4767000,Europe & Central Asia,High income: OECD
+2011,Norway,115.8,93.48998265,3.2,4953088,10.7,4963000,Europe & Central Asia,High income: OECD
+2012,Norway,116.1,94.64997805,3.1,5018573,9.9,NA,Europe & Central Asia,High income: OECD
+2013,Norway,116.3,95.0534,3.4,5079623,9,NA,Europe & Central Asia,High income: OECD
+2014,Norway,116.5,96.3,3.5,5136475,8.6,NA,Europe & Central Asia,High income: OECD
+2010,Pakistan,57.3,8,5.3,170043918,8.4,907000,South Asia,Lower middle income
+2011,Pakistan,61.8,9,5.7,173669648,8.5,1161000,South Asia,Lower middle income
+2013,Pakistan,70.1,10.9,6,181192646,9.1,NA,South Asia,Lower middle income
+2014,Pakistan,73.3,13.8,5.6,185044286,9.4,NA,South Asia,Lower middle income
+2010,Panama,180.7,40.1,6.5,3620506,22.5,1324000,Latin America & Caribbean,Upper middle income
+2011,Panama,180.1,42.7,4.5,3681979,22.5,1473000,Latin America & Caribbean,Upper middle income
+2012,Panama,163.4,40.30189522,4,3743761,22.1,1606000,Latin America & Caribbean,Upper middle income
+2013,Panama,163,44.03,4.1,3805683,23.4,1658000,Latin America & Caribbean,Upper middle income
+2014,Panama,158.1,44.92,4.8,3867535,22.8,NA,Latin America & Caribbean,Upper middle income
+2010,Paraguay,91.7,19.8,5.7,6209877,8.4,465000,Latin America & Caribbean,Upper middle income
+2011,Paraguay,99.3,24.76351588,4.3,6293763,9.3,524000,Latin America & Caribbean,Upper middle income
+2012,Paraguay,101.6,29.34,4.9,6379162,9.7,579000,Latin America & Caribbean,Upper middle income
+2013,Paraguay,103.7,36.9,5,6465669,10,610000,Latin America & Caribbean,Upper middle income
+2014,Paraguay,105.6,43,6,6552518,10.4,NA,Latin America & Caribbean,Upper middle income
+2010,Peru,99.5,34.77,4,29373644,45.5,2299000,Latin America & Caribbean,Upper middle income
+2011,Peru,109.6,36.01,3.9,29759891,55.6,2598000,Latin America & Caribbean,Upper middle income
+2012,Peru,98,38.2,3.6,30158768,71.5,2846000,Latin America & Caribbean,Upper middle income
+2013,Peru,98.1,39.2,4,30565461,86.6,3164000,Latin America & Caribbean,Upper middle income
+2014,Peru,102.9,40.2,6,30973148,120.7,NA,Latin America & Caribbean,Upper middle income
+2010,Philippines,89,25,7.3,93038902,7.7,3520000,East Asia & Pacific,Lower middle income
+2011,Philippines,99.1,29,7,94501233,7.9,3917000,East Asia & Pacific,Lower middle income
+2012,Philippines,105.5,36.2351,7,96017322,8.1,4273000,East Asia & Pacific,Lower middle income
+2013,Philippines,104.5,37,7.1,97571676,8.4,4681000,East Asia & Pacific,Lower middle income
+2014,Philippines,111.2,39.69,6.8,99138690,8.8,NA,East Asia & Pacific,Lower middle income
+2010,Poland,122.9,62.32,9.6,38042794,32.1,12470000,Europe & Central Asia,High income: OECD
+2011,Poland,131.3,61.94999897,9.6,38063255,32.5,13350000,Europe & Central Asia,High income: OECD
+2012,Poland,141.5,62.30999727,10.1,38063164,33.9,14840000,Europe & Central Asia,High income: OECD
+2013,Poland,149.1,62.8492,10.3,38040196,33,15800000,Europe & Central Asia,High income: OECD
+2014,Poland,156.4,66.6,9,37995529,33,NA,Europe & Central Asia,High income: OECD
+2010,Portugal,115.3,53.3,10.8,10573100,66,6756000,Europe & Central Asia,High income: OECD
+2011,Portugal,116.4,55.24999688,12.7,10557560,64.1,7264000,Europe & Central Asia,High income: OECD
+2012,Portugal,112.4,60.33999749,15.5,10514844,61.3,7503000,Europe & Central Asia,High income: OECD
+2013,Portugal,113,62.0956,16.2,10457295,58.3,8097000,Europe & Central Asia,High income: OECD
+2014,Portugal,111.8,64.59,13.9,10397393,53.6,NA,Europe & Central Asia,High income: OECD
+2010,Puerto Rico,79.1,45.3,16.1,3721527,NA,3186000,Latin America & Caribbean,High income: nonOECD
+2011,Puerto Rico,84,48,15.7,3686771,NA,3048000,Latin America & Caribbean,High income: nonOECD
+2012,Puerto Rico,82.6,68.9999826,14.5,3642281,NA,3069000,Latin America & Caribbean,High income: nonOECD
+2013,Puerto Rico,83.6,73.9,14.3,3595839,NA,3200000,Latin America & Caribbean,High income: nonOECD
+2014,Puerto Rico,87.1,78.78,13.9,3548397,NA,NA,Latin America & Caribbean,High income: nonOECD
+2011,Qatar,120.5,69,0.6,1905437,13.3,2057000,Middle East & North Africa,High income: nonOECD
+2012,Qatar,126.9,69.3,0.5,2015624,13.2,2346000,Middle East & North Africa,High income: nonOECD
+2013,Qatar,152.6,85.3,0.3,2101288,12.5,2611000,Middle East & North Africa,High income: nonOECD
+2010,Romania,111.4,39.93,7,20246871,35.1,7498000,Europe & Central Asia,Upper middle income
+2011,Romania,107.4,40.00999678,7.2,20147528,34.9,7611000,Europe & Central Asia,Upper middle income
+2012,Romania,105,45.87999425,6.8,20058035,32.9,7937000,Europe & Central Asia,Upper middle income
+2013,Romania,105.6,49.7645,7.1,19983693,31.4,8019000,Europe & Central Asia,Upper middle income
+2014,Romania,105.9,54.08,6.8,19910995,30.6,NA,Europe & Central Asia,Upper middle income
+2010,Russian Federation,165.5,43,7.3,142849449,35.2,22281000,Europe & Central Asia,High income: nonOECD
+2011,Russian Federation,142,49,6.5,142960868,36.8,24932000,Europe & Central Asia,High income: nonOECD
+2012,Russian Federation,145.3,63.8,5.5,143201676,38.3,28177000,Europe & Central Asia,High income: nonOECD
+2013,Russian Federation,152.8,67.97,5.5,143506911,38.5,30792000,Europe & Central Asia,High income: nonOECD
+2014,Russian Federation,155.1,70.52,5.2,143819569,37,NA,Europe & Central Asia,High income: nonOECD
+2012,Rwanda,49.7,8.023854277,3.4,10817350,5.5,815000,Sub-Saharan Africa,Low income
+2012,Samoa,53.1,12.92249,8.7,188901,18.7,126000,East Asia & Pacific,Lower middle income
+2011,San Marino,114.2,49.6,5.1,30938,263.6,156000,Europe & Central Asia,High income: nonOECD
+2011,Saudi Arabia,194.5,47.5,5.8,28788438,8.6,17498000,Middle East & North Africa,High income: nonOECD
+2012,Saudi Arabia,187.4,54,5.6,29496047,8.6,14276000,Middle East & North Africa,High income: nonOECD
+2013,Saudi Arabia,184.2,60.5,5.6,30201051,8.8,13380000,Middle East & North Africa,High income: nonOECD
+2014,Saudi Arabia,179.6,63.7,5.9,30886545,9.2,NA,Middle East & North Africa,High income: nonOECD
+2011,Senegal,70.2,9.8,10.4,13357003,4.5,968000,Sub-Saharan Africa,Lower middle income
+2010,Serbia,125.3,40.9,19.2,7291436,41.6,683000,Europe & Central Asia,Upper middle income
+2011,Serbia,130.2,42.2,23,7234099,40.1,764000,Europe & Central Asia,Upper middle income
+2012,Serbia,117.8,48.1,23.9,7199077,37.8,810000,Europe & Central Asia,Upper middle income
+2013,Serbia,119.4,51.5,22.1,7164132,33.6,922000,Europe & Central Asia,Upper middle income
+2011,Seychelles,137.9,43.16400446,4.1,87441,47,194000,Sub-Saharan Africa,High income: nonOECD
+2010,Singapore,145.4,71,3.1,5076700,10.2,9161000,East Asia & Pacific,High income: nonOECD
+2011,Singapore,150.1,71,2.9,5183700,10,10390000,East Asia & Pacific,High income: nonOECD
+2012,Singapore,152.1,72,2.8,5312400,9.8,11098000,East Asia & Pacific,High income: nonOECD
+2013,Singapore,155.9,81,2.8,5399200,9.5,11899000,East Asia & Pacific,High income: nonOECD
+2014,Singapore,158.1,82,1.7,5469700,9.4,NA,East Asia & Pacific,High income: nonOECD
+2010,Slovak Republic,109,75.71,14.4,5391428,26.2,5415000,Europe & Central Asia,High income: OECD
+2011,Slovak Republic,110,74.43999717,13.6,5398384,25.9,5961000,Europe & Central Asia,High income: OECD
+2012,Slovak Republic,111.9,76.70999012,14,5407579,26.6,6235000,Europe & Central Asia,High income: OECD
+2013,Slovak Republic,113.9,77.8826,14.2,5413393,26.9,NA,Europe & Central Asia,High income: OECD
+2014,Slovak Republic,116.9,79.98,13.2,5418506,28,NA,Europe & Central Asia,High income: OECD
+2010,Slovenia,103.3,70,7.2,2048583,38.8,1869000,Europe & Central Asia,High income: OECD
+2011,Slovenia,105.2,67.33999481,8.2,2052843,38.3,2037000,Europe & Central Asia,High income: OECD
+2012,Slovenia,108.4,68.34997453,8.8,2057159,38.4,2156000,Europe & Central Asia,High income: OECD
+2013,Slovenia,110.2,72.6756,10.1,2059953,34.4,2259000,Europe & Central Asia,High income: OECD
+2014,Slovenia,112.1,71.59,9.7,2062218,31.8,NA,Europe & Central Asia,High income: OECD
+2010,South Africa,97.9,24,24.7,50791808,9.9,8074000,Sub-Saharan Africa,Upper middle income
+2011,South Africa,123.2,33.97,24.6,51553479,10.3,8339000,Sub-Saharan Africa,Upper middle income
+2012,South Africa,130.6,41,24.7,52341695,10,9188000,Sub-Saharan Africa,Upper middle income
+2013,South Africa,145.6,46.5,24.6,53157490,10.2,9537000,Sub-Saharan Africa,Upper middle income
+2014,South Africa,149.7,49,24.9,54001953,10.9,NA,Sub-Saharan Africa,Upper middle income
+2010,Spain,111.3,65.8,19.9,46576897,96.1,52677000,Europe & Central Asia,High income: OECD
+2011,Spain,113.1,67.6,21.4,46742697,88.5,56177000,Europe & Central Asia,High income: OECD
+2012,Spain,108.4,69.80999994,24.8,46773055,84.1,57464000,Europe & Central Asia,High income: OECD
+2013,Spain,106.9,71.635,26.1,46620045,74,60661000,Europe & Central Asia,High income: OECD
+2014,Spain,107.8,76.19,24.4,46404602,70.2,NA,Europe & Central Asia,High income: OECD
+2010,Sri Lanka,83.6,12,4.9,20653000,15.5,654000,South Asia,Lower middle income
+2011,Sri Lanka,87.5,15,4.2,20869000,16.9,856000,South Asia,Lower middle income
+2012,Sri Lanka,91.6,18.2854,4,20328000,18.1,1006000,South Asia,Lower middle income
+2013,Sri Lanka,95.5,21.9,4.4,20483000,18.4,1275000,South Asia,Lower middle income
+2014,Sri Lanka,103.2,25.8,4.3,20639000,18.7,NA,South Asia,Lower middle income
+2010,St. Lucia,111.7,43.3,20.6,177397,21.9,306000,Latin America & Caribbean,Upper middle income
+2011,St. Lucia,120.8,44,18.9,179278,21.5,312000,Latin America & Caribbean,Upper middle income
+2012,St. Lucia,119.4,45.9,19.1,180890,21.2,307000,Latin America & Caribbean,Upper middle income
+2013,St. Lucia,116.3,46.2,22.2,182305,20.9,319000,Latin America & Caribbean,Upper middle income
+2010,Suriname,99.3,31.59,7.6,518141,11.2,205000,Latin America & Caribbean,Upper middle income
+2013,Suriname,161.1,37.4,4.8,533450,12.3,249000,Latin America & Caribbean,Upper middle income
+2010,Sweden,117.2,90,8.6,9378126,22.5,5183000,Europe & Central Asia,High income: OECD
+2011,Sweden,121.2,92.76998606,7.8,9449213,21.7,5222000,Europe & Central Asia,High income: OECD
+2012,Sweden,124.6,93.17998801,8,9519374,21.8,5146000,Europe & Central Asia,High income: OECD
+2013,Sweden,125.5,94.7836,8.1,9600379,21.6,5229000,Europe & Central Asia,High income: OECD
+2014,Sweden,127.8,92.52,8,9689555,21.1,NA,Europe & Central Asia,High income: OECD
+2010,Switzerland,123.2,83.9,4.5,7824909,51.8,8628000,Europe & Central Asia,High income: OECD
+2011,Switzerland,127.4,85.19302818,4,7912398,50.2,8534000,Europe & Central Asia,High income: OECD
+2012,Switzerland,132.1,85.2,4.2,7996861,48.8,8566000,Europe & Central Asia,High income: OECD
+2013,Switzerland,136.8,86.34,4.4,8089346,47.4,8967000,Europe & Central Asia,High income: OECD
+2014,Switzerland,140.5,87,4.5,8190229,46,NA,Europe & Central Asia,High income: OECD
+2010,Syrian Arab Republic,54.3,20.7,8.4,20720602,3.7,8546000,Middle East & North Africa,Lower middle income
+2011,Syrian Arab Republic,59.2,22.5,14.9,21070917,3.9,5070000,Middle East & North Africa,Lower middle income
+2011,Tanzania,55.4,3.2,3.5,47122998,1.9,843000,Sub-Saharan Africa,Low income
+2013,Tanzania,55.7,4.4,2.9,50213457,2.5,1063000,Sub-Saharan Africa,Low income
+2010,Thailand,108,22.4,1,66692024,11.2,15936000,East Asia & Pacific,Upper middle income
+2011,Thailand,116.3,23.66992562,0.7,66902958,11.5,19230000,East Asia & Pacific,Upper middle income
+2012,Thailand,127.3,26.46,0.7,67164130,11.8,22354000,East Asia & Pacific,Upper middle income
+2013,Thailand,140.1,28.94,0.8,67451422,12.2,26547000,East Asia & Pacific,Upper middle income
+2014,Thailand,144.4,34.89,0.8,67725979,12.7,NA,East Asia & Pacific,Upper middle income
+2010,Timor-Leste,43.8,0.21,3.9,1066409,2,40000,East Asia & Pacific,Lower middle income
+2010,Trinidad and Tobago,142.6,48.5,5.9,1328095,13.5,388000,Latin America & Caribbean,High income: nonOECD
+2011,Trinidad and Tobago,137,55.2,4.7,1334790,12.6,431000,Latin America & Caribbean,High income: nonOECD
+2012,Trinidad and Tobago,140.8,59.5162,5,1341579,12.7,455000,Latin America & Caribbean,High income: nonOECD
+2013,Trinidad and Tobago,144.9,63.8,3.6,1348240,12.6,434000,Latin America & Caribbean,High income: nonOECD
+2010,Tunisia,104.5,36.8,13,10547100,16.6,6903000,Middle East & North Africa,Upper middle income
+2011,Tunisia,115.2,39.1,18.3,10673800,17,4785000,Middle East & North Africa,Upper middle income
+2012,Tunisia,118.1,41.4416,17.6,10777500,17.5,5950000,Middle East & North Africa,Upper middle income
+2013,Tunisia,115.6,43.8,15.9,10886500,18.2,6269000,Middle East & North Africa,Upper middle income
+2010,Turkey,85.6,39.82,10.7,72310416,17.9,31364000,Europe & Central Asia,Upper middle income
+2011,Turkey,89.4,43.06571043,8.8,73199372,18.3,34654000,Europe & Central Asia,Upper middle income
+2012,Turkey,91.5,45.13,8.1,74099255,18.7,35698000,Europe & Central Asia,Upper middle income
+2013,Turkey,93,46.25,8.7,75010202,19.8,37795000,Europe & Central Asia,Upper middle income
+2014,Turkey,94.8,51.04,9.9,75932348,19.8,NA,Europe & Central Asia,Upper middle income
+2013,Uganda,48.1,16.2,1.9,36573387,2.8,1206000,Sub-Saharan Africa,Low income
+2010,Ukraine,117.1,23.3,8.1,45870700,2.3,21203000,Europe & Central Asia,Lower middle income
+2011,Ukraine,121.3,28.70826284,7.9,45706100,1.6,21415000,Europe & Central Asia,Lower middle income
+2012,Ukraine,130.3,35.27,7.5,45593300,1.1,23013000,Europe & Central Asia,Lower middle income
+2013,Ukraine,138.1,41,7.2,45489600,0.9,24671000,Europe & Central Asia,Lower middle income
+2014,Ukraine,144.1,43.4,9.3,45362900,0.8,NA,Europe & Central Asia,Lower middle income
+2010,United Kingdom,123.6,85,7.8,62766365,24.7,28295000,Europe & Central Asia,High income: OECD
+2011,United Kingdom,123.6,85.37999855,8,63258918,24.1,29306000,Europe & Central Asia,High income: OECD
+2012,United Kingdom,124.8,87.47999842,7.9,63700300,22.1,29282000,Europe & Central Asia,High income: OECD
+2013,United Kingdom,124.6,89.8441,7.5,64106779,25.2,31169000,Europe & Central Asia,High income: OECD
+2014,United Kingdom,123.6,91.61,6.1,64510376,NA,NA,Europe & Central Asia,High income: OECD
+2010,United States,91.3,71.69,9.6,309347057,35.3,60010000,North America,High income: OECD
+2011,United States,94.4,69.72946076,9,311721632,35,62821000,North America,High income: OECD
+2012,United States,96,79.3,8.1,314112078,34.8,66657000,North America,High income: OECD
+2013,United States,97.1,84.2,7.4,316497531,33.6,69768000,North America,High income: OECD
+2014,United States,98.4,87.36,6.2,318857056,32.4,NA,North America,High income: OECD
+2010,Uruguay,131.6,46.4,7.2,3374414,13.6,2353000,Latin America & Caribbean,High income: nonOECD
+2011,Uruguay,140.6,51.40466106,6.3,3385610,13.5,2857000,Latin America & Caribbean,High income: nonOECD
+2012,Uruguay,147.1,54.45376868,6.5,3396753,12.7,2695000,Latin America & Caribbean,High income: nonOECD
+2013,Uruguay,154.6,57.69,6.5,3407969,12.6,2683000,Latin America & Caribbean,High income: nonOECD
+2014,Uruguay,160.8,61.46,6.6,3419516,12.2,NA,Latin America & Caribbean,High income: nonOECD
+2010,"Venezuela, RB",96,37.37,8.6,28995745,17.1,526000,Latin America & Caribbean,High income: nonOECD
+2011,"Venezuela, RB",97.6,40.22,8.3,29427631,16.6,595000,Latin America & Caribbean,High income: nonOECD
+2012,"Venezuela, RB",102.1,49.05008307,8.1,29854238,16.6,988000,Latin America & Caribbean,High income: nonOECD
+2013,"Venezuela, RB",101.6,54.9,7.8,30276045,16.5,986000,Latin America & Caribbean,High income: nonOECD
+2014,"Venezuela, RB",99,57,7,30693827,16.4,NA,Latin America & Caribbean,High income: nonOECD
+2011,Vietnam,141.6,35.07,2,87840000,3.6,6014000,East Asia & Pacific,Lower middle income
+2012,Vietnam,145,39.49,1.8,88772900,3.1,6848000,East Asia & Pacific,Lower middle income
+2013,Vietnam,135,43.9,2,89708900,3.7,7572000,East Asia & Pacific,Lower middle income
+2014,Vietnam,147.1,48.31,1.8,90730000,3.8,NA,East Asia & Pacific,Lower middle income
+2010,West Bank and Gaza,64.9,37.4,23.7,3811102,10.4,522000,Middle East & North Africa,Lower middle income
+2011,West Bank and Gaza,70.1,41.08,21,3927051,10.6,449000,Middle East & North Africa,Lower middle income
+2012,West Bank and Gaza,74.3,43.4,23,4046901,10.4,490000,Middle East & North Africa,Lower middle income
+2013,West Bank and Gaza,73.7,46.6,23.3,4169506,10.2,545000,Middle East & North Africa,Lower middle income
+2014,West Bank and Gaza,72.1,53.67,26.9,4294682,10.6,NA,Middle East & North Africa,Lower middle income
+2010,"Yemen, Rep.",48.7,12.35,17.8,23591972,1.9,1025000,Middle East & North Africa,Lower middle income
+2012,Zambia,74.8,13.4682,7.9,14786581,4.4,859000,Sub-Saharan Africa,Lower middle income
+2011,Zimbabwe,68.9,15.7,5.4,14255592,5.9,2423000,Sub-Saharan Africa,Low income
+2012,Zimbabwe,91.9,17.09,11.1,14565482,12,1794000,Sub-Saharan Africa,Low income
+2014,Zimbabwe,80.8,19.89,11.3,15245855,13,NA,Sub-Saharan Africa,Low income
