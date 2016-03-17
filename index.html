@@ -18,10 +18,25 @@
   	<script src="scripts/selectToUISlider.jQuery.js"></script>
   	<script src="scripts/jquery.tipsy.js"></script>
     <script src="scripts/main-script.js"></script>
-  <p style="width: 1000px; height: 15 px; text-align: left; font-size: 14px;">&nbsp; &nbsp; <b>World Development Indicators</b>: Exploring Unemployment Rates Vs. Average Internet Users (per 100 people)</p>  
+  <p style="width: 1000px; height: 15 px; text-align: left; font-size: 18px;">&nbsp; &nbsp; <b>World Development Indicators</b>: Exploring Unemployment Rates Vs. Average Internet Users (per 100 people)</p>
+
+  <div id="content">
+      <p align="justify" style="font-size: 15px; margin-left: 25px; width: 900px">The below interactive visualization helps you explore the Unemployment Rates Vs. Average Internet Users (per 100 people) across Regions, Countries, Income Groups, Population for the 5 years from 2010 to 2014.</p>
+      <p align="justify" style="font-size: 15px; margin-left: 25px; margin-top: -10px;width: 900px">The multidimensional visual analysis using cross-filtered views works on an "AND" conditioning, for example, if you select a Region X and Country Y -- the data will show up only if that country falls in that region.
+      Also, there is no particular order to select the filter, data can be sliced on any level.</p>
+      <p style="font-size: 15px; margin-left: 25px;margin-top: -10px; width: 900px">The idea is to allow you to narrow down the comparisons based on any sliced view that you would like to view the information in.</p>
+      <p style="font-size: 15px; margin-left: 25px;margin-top: -10px; width: 900px">This is particularly helpful when you want to view data for a given region across income groups.</p>
+      <p style="font-size: 15px; margin-left: 25px;margin-top: -10px; width: 900px">Also, the color scheme drop-down allows you to select your preferred color encoding to derive the best insights. </p>
+
+
+
+
+  </div>
+
+
 	<div id = "filters" style="height: 10px" class="filter">
+        <select multiple="multiple" class="filter-region" id="region-list"></select>
 		<select multiple="multiple" class="filter-country" id = "country-list"></select>
-		<select multiple="multiple" class="filter-region" id="region-list"></select>
 		<select multiple="multiple" class="filter-ig" id="ig-list"></select>
 		<br><br>
     </div>

@@ -45,7 +45,6 @@ dataset = d3.csv("data/Economy_Parameters_clean.csv", function(dataset){
     cl.add(option);
   });
 
-
   $(".filter-country").chosen({width: "25%", placeholder_text_multiple: "Country"});
   $( ".filter-country" ).change(function() {
     countries = $('#country-list').val();
